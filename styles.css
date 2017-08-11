@@ -1,0 +1,60 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Verdana;
+  font-size: 16px;
+}
+
+#header-statement {
+  text-align: center;
+}
+
+#hero {
+  width: 100%;
+  height: 400px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("http://d1060ja7433lis.cloudfront.net/d3mBKkVMW7/jqg_13539536932.jpg");
+}
+
+#nav-list {
+  list-style-type: none;
+  text-align: center;
+}
+
+#nav-link {
+  display: inline;
+  padding: 10px;
+  width: 15%;
+  height: 300px;
+  margin: 2.5%;
+  padding-top: 15%;
+  float: left;
+  background-color: white;
+  text-align: center;
+  color: black;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.page-row {
+  width: 100%;
+  clear: both;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+#the_rosa {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf5RTjZCrUtXfSk5r8Qe6HZWMRDg_ykqFL-I2CTPUi4LtIeA7T');
+}
+
+
+
+
+h3 {
+  text-align: center;
+}
